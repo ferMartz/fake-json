@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "file":"http://fake.com/test.php?m=s1&f=t&s=42"
+    },
+    {
+        "id":2,
+        "file":"http://fake.com/test.php?m=s1&f=t&s=42"
+    },
+    {
+        "id":3,
+        "file":"http://fake.com/test.php?m=s1&f=t&s=42"
+    },
+    {
+        "id":4,
+        "file":"http://fake.com/test.php?m=s1&f=t&s=42"
+    }
+
+]
